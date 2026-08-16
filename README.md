@@ -15,7 +15,7 @@ Use starter code to start each section, and **final code to compare it with your
 ### Q2: I'm looking for the old course version (v1) files. Where can I find them?
 
 **A:** They are in this same repo, but in the [v1 branch](https://github.com/jonasschmedtmann/complete-javascript-course/tree/v1). So just go to [v1](https://github.com/jonasschmedtmann/complete-javascript-course/tree/v1), and download the code from there.
-
+dadada
 ### Q3: I'm stuck! Where do I get help?
 
 **A:** Have you actually tried to fix the problem on your own? Have you compared your code to the final code? If you failed fixing your problem, please **post a detailed description of the problem to the Q&A area of that video over at Udemy**, along with a [codepen](https://codepen.io/pen/) containing your code. You will get help there. Please don't send me a personal message or email to fix coding problems.
